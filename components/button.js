@@ -5,11 +5,11 @@ import Link from "next/link";
 
 const Button = ({ children, slug, company }) => {
   return (
-    <button className={styles.button}>
+    <>
       <Link className={styles.link} href={company + "/products/" + slug}>
         {children}
       </Link>
-    </button>
+    </>
   );
 };
 

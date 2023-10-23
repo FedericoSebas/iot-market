@@ -1,7 +1,7 @@
 import { readFile, readFileSync } from "fs";
 import path from "path";
 
-export default function handler(req, res) {
+export function GET(req) {
   function convertNumberToWord(number) {
     const ones = [
       "zero",
@@ -27,7 +27,6 @@ export default function handler(req, res) {
     return numbers ? numbers.join("") : "";
   }
 
-  if (req.method === "GET") {
     const filePath = path.join(process.cwd(), "data", "products.json");
     const fileContet = readFileSync(filePath);
     const products = JSON.parse(fileContet);
@@ -37,8 +36,7 @@ export default function handler(req, res) {
       const word = convertNumberToWord(parseInt(numString));
 
       products[key].title = key.replace("-", " ").replace(/\d+/g, "");
-      products[key].slug = key.replace(/\d+/g, word);
+      products[key].slug = key
     }
-    res.status(200).json({ data: products });
-  }
+    return Response.json({products},{status: 200});
 }

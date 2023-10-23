@@ -1,8 +1,7 @@
-Aimport { Inter } from "next/font/google";
+import { Inter } from "next/font/google";
 
 import "./globals.css";
 import MainHeader from "../components/header/main-header";
-import ApolloClientProvider from "../components/graphql/apollo-client-provider";
 
 export const metadata = {
   title: "viewport",
@@ -19,7 +18,7 @@ export default function Layout({ children }) {
       </head>
       <body className={inter.className}>
         <MainHeader />
-        <ApolloClientProvider>{children}</ApolloClientProvider>
+        {children}
       </body>
     </html>
   );

@@ -1,0 +1,25 @@
+
+
+.container{
+    display:flex;
+    background-color: #fff;
+    border-radius: 42px;
+    padding: 8px 0;
+    max-width: 698px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.perseverance{
+    margin-left: 60px;
+}
+
+.header{
+    margin-left: 61px;
+}
+
+.header-font{
+    font-family: unset;
+    font-weight: 800;
+    font-size: 1.8rem;
+}

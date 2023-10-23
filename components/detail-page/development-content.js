@@ -1,3 +1,3 @@
 export default function DevelopmentContent({hardware,model}){
-    return();
+    return(<h1>hi</h1>);
 }

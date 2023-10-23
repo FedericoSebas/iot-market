@@ -1,197 +1,2807 @@
-{
-  "perseverance1": {
-    "company": "BrainyRoberts",
-    "image": {
-      "height": 114,
-      "url": "images/perserverance.png",
-      "width": 170.3
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "It is a Rovert capable to make research in any plant in order to preserve humanity thanks to the information collected of planets viables for living "
-  },
-  "smart-flower-pot1": {
-    "company": "Fotosintx",
-    "image": {
-      "height": 139.3,
-      "url": "images/smart-flower-pot.png",
-      "width": 110
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "Consists in a flowr pot capable to interact with any human thanks for an oled, it can make fun any person only watching their animations"
-  },
-  "perseverance2": {
-    "company": "BrainyRoberts",
-    "image": {
-      "height": 114,
-      "url": "images/perserverance.png",
-      "width": 170.3
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "It is a Rovert capable to make research in any plant in order to preserve humanity thanks to the information collected of planets viables for living "
-  },
-  "smart-flower-pot2": {
-    "company": "Fotosintx",
-    "image": {
-      "height": 139.3,
-      "url": "images/smart-flower-pot.png",
-      "width": 110
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "Consists in a flowr pot capable to interact with any human thanks for an oled, it can make fun any person only watching their animations"
-  },
-  "perseverance3": {
-    "company": "BrainyRoberts",
-    "image": {
-      "height": 114,
-      "url": "images/perserverance.png",
-      "width": 170.3
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "It is a Rovert capable to make research in any plant in order to preserve humanity thanks to the information collected of planets viables for living "
-  },
-  "smart-flower-pot3": {
-    "company": "Fotosintx",
-    "image": {
-      "height": 139.3,
-      "url": "images/smart-flower-pot.png",
-      "width": 110
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "Consists in a flowr pot capable to interact with any human thanks for an oled, it can make fun any person only watching their animations"
-  },
-  "perseverance4": {
-    "company": "BrainyRoberts",
-    "image": {
-      "height": 114,
-      "url": "images/perserverance.png",
-      "width": 170.3
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "It is a Rovert capable to make research in any plant in order to preserve humanity thanks to the information collected of planets viables for living "
-  },
-  "smart-flower-pot4": {
-    "company": "Fotosintx",
-    "image": {
-      "height": 139.3,
-      "url": "images/smart-flower-pot.png",
-      "width": 110
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "Consists in a flowr pot capable to interact with any human thanks for an oled, it can make fun any person only watching their animations"
-  },
-  "perseverance5": {
-    "company": "BrainyRoberts",
-    "image": {
-      "height": 114,
-      "url": "images/perserverance.png",
-      "width": 170.3
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "It is a Rovert capable to make research in any plant in order to preserve humanity thanks to the information collected of planets viables for living "
-  },
-  "smart-flower-pot5": {
-    "company": "Fotosintx",
-    "image": {
-      "height": 139.3,
-      "url": "images/smart-flower-pot.png",
-      "width": 110
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "Consists in a flowr pot capable to interact with any human thanks for an oled, it can make fun any person only watching their animations"
-  },
-  "perseverance6": {
-    "company": "BrainyRoberts",
-    "image": {
-      "height": 114,
-      "url": "images/perserverance.png",
-      "width": 170.3
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "It is a Rovert capable to make research in any plant in order to preserve humanity thanks to the information collected of planets viables for living "
-  },
-  "smart-flower-pot6": {
-    "company": "Fotosintx",
-    "image": {
-      "height": 139.3,
-      "url": "images/smart-flower-pot.png",
-      "width": 110
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "Consists in a flowr pot capable to interact with any human thanks for an oled, it can make fun any person only watching their animations"
-  },
-  "perseverance7": {
-    "company": "BrainyRoberts",
-    "image": {
-      "height": 114,
-      "url": "images/perserverance.png",
-      "width": 170.3
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "It is a Rovert capable to make research in any plant in order to preserve humanity thanks to the information collected of planets viables for living "
-  },
-  "smart-flower-pot7": {
-    "company": "Fotosintx",
-    "image": {
-      "height": 139.3,
-      "url": "images/smart-flower-pot.png",
-      "width": 110
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "Consists in a flowr pot capable to interact with any human thanks for an oled, it can make fun any person only watching their animations"
-  },
-  "perseverance8": {
-    "company": "BrainyRoberts",
-    "image": {
-      "height": 114,
-      "url": "images/perserverance.png",
-      "width": 170.3
-    },
-    "urls": {
-      "model": "https://github.com/xXala011/FotosintX/tree/3d-design/Dise%C3%B1o%20FotosintX",
-      "hardware": "https://github.com/xXala011/FotosintX/tree/hardware/hardware/pcb%20and%20schematic%20desing/pcb%20milton/fotosintX"
-    },
-    "detail": "It is a Rovert capable to make research in any plant in order to preserve humanity thanks to the information collected of planets viables for living "
-  }
-}
+[
+  {"perseverance1": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"smart-flower-pot1": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"perseverance2": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"smart-flower-pot2": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"perseverance3": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"smart-flower-pot3": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"perseverance4": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"smart-flower-pot4": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"perseverance5": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"smart-flower-pot5": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"perseverance6": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"smart-flower-pot6": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"perseverance7": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"smart-flower-pot7": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }},
+  {"perseverance8": {
+    "company": "brainyroberts",
+    "product": "perseverance",
+    "buttons": [
+      "order product",
+      "enable content",
+      "full pack",
+      "unlock content"
+    ],
+    "sections": [
+      {
+        "name": "detail",
+        "title": "Perseverance",
+        "company": "BrainyRoberts",
+        "description": "It is a Rover capable to make resarch in any planet in order to perserve humanity thanks to the information collected of planets viables for living. You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale.  For more information visit: https://www.nasa.gov/perseverance",
+        "files": [
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png",
+          "/images/perseverance.png"
+        ],
+        "image": {
+          "height": 114,
+          "width": 170.3
+        },
+        "buttonIndexes": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "title": "Pricing 💳",
+        "name": "pricing",
+        "items": [
+          {
+            "title": "Order Product",
+            "description": "Your order will arrive according to your parcel service provider and the shipping",
+            "files": [
+              "/images/order-product.svg"
+            ],
+            "price": "$1.6",
+            "buttonIndex": 0
+          },
+          {
+            "title": "Enable Content",
+            "description": "You will be able to access the content of the product you have purchased and the api dashboard including the 3D models, electronic designs and the instruction to build the product",
+            "files": [
+              "/images/enable-content.svg"
+            ],
+            "price": "$2.1",
+            "buttonIndex": 1
+          },
+          {
+            "title": "Full Pack",
+            "description": "You will be able to access to the order product and the content of the product enabled",
+            "files": [
+              "/images/order-product.svg",
+              "/images/enable-content.svg"
+            ],
+            "price": "$3.1",
+            "buttonIndex": 2
+          }
+        ]
+      },
+      {
+        "title": "Content 📄",
+        "name": "content",
+        "items": [
+          {
+            "title": "3D Models",
+            "description": "You need to attach the piece 1 to the 2.Piece 3 and 4 are stand alone. In order to get accurate models  you need to print the pieces in the same scale. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/3d-models/base.stl",
+              "/content/3d-models/front.stl",
+              "/content/3d-models/holder.stl"
+            ],
+            "buttonIndex": 3
+          },
+          {
+            "title": "Electronic Designs",
+            "description": "Please make the pads 1mm and the paths 3mm, this will make the soldering process easier. For more information visit: https://www.nasa.gov/perseverance",
+            "files": [
+              "/content/electronic-designs/motor-controller.kicad_sch",
+              "/images/motor-controller.kicad_pcb"
+            ],
+            "buttonIndex": 3
+          }
+        ]
+      },
+      {
+        "title": "Dashboard API Service",
+        "name": "dashboard api service",
+        "items": [
+          {
+            "description": "You will be able to access to the dashboard API service if you get access to the content. This service allows you to monitor sensors and manage actuators and data of the product.",
+            "files": [
+              "/images/dashboard.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "review",
+        "items": [
+          {
+            "title": "Not Recommended",
+            "description": "Needs significant improvement.",
+            "color": "brown",
+            "stars": 0,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Poor Experience",
+            "description": "Many aspects need improvement.",
+            "color": "red",
+            "stars": 1,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Could Be Better",
+            "description": "Some aspects were satisfactory, others were not.",
+            "color": "orange",
+            "stars": 2,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Average",
+            "description": "Met basic expectations but nothing more.",
+            "color": "yellow",
+            "stars": 3,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Good",
+            "description": "Mostly positive experience.",
+            "color": "green",
+            "stars": 4,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          },
+          {
+            "title": "Excellent",
+            "description": "Exceeded expectations in all aspects.",
+            "color": "lightblue",
+            "stars": 5,
+            "files": [
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg",
+              "/images/star.svg"
+            ]
+          }
+        ]
+      }
+    ]
+  }}
+]

@@ -1,0 +1,11 @@
+/* CSS */
+.carousel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .carousel img {
+    width: 100%;
+  }
+  

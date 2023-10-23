@@ -69,6 +69,11 @@
   vertical-align: middle;
 }
 
+.link {
+  text-decoration: none;
+  color: #fff;
+}
+
 /* 
 @media (min-width: 768px) {
   .item {
