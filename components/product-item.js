@@ -2,6 +2,8 @@ import Image from "next/image";
 import startCase from "lodash/startCase";
 import styles from "./product-item.module.css";
 import IconAction from "./icon-action.js";
+
+import Link from "next/link";
 import Button from "./button";
 
 export default function ProductItem(props) {
@@ -9,7 +11,8 @@ export default function ProductItem(props) {
 
 
   return (
-    <li className={styles.content}>
+      <li className={styles.content}>
+        
       <div className={styles.item}>
         <IconAction content={{ summary, company }}>
           <Image
@@ -19,13 +22,11 @@ export default function ProductItem(props) {
             height={image.height}
           />
         </IconAction>
-        <Button company={company} slug={slug}>
-          Review
+        <Button slug={slug} company={company}>
+          Buy
         </Button>
       </div>
-      <div>
         <h2>{startCase(title)}</h2>
-      </div>
     </li>
   );
 }

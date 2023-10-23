@@ -1,5 +1,5 @@
 .newsletter {
-  margin: 3rem auto;
+  margin: 27px auto;
   width: 90%;
   max-width: 20rem;
 }
@@ -52,7 +52,7 @@
 }
 
 .control {
-  wdith: 100%;
+  width: 100%;
   max-width: 700px;
   align-items: center;
   border-radius: 60px;

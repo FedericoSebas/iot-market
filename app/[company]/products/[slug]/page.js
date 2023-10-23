@@ -1,21 +1,36 @@
+
+
+import Carousel from "../../../../components/detail-page/carousel";
 import ProductList from "../../../../components/product-list";
-async function fetchProducts() {
-  return fetch("https://8q4vc3-3000.csb.app/api/product-deail").then((response) =>
-    response.json()
+
+async function fetchProducts(slug) {
+  return fetch(`https://potential-memory-9r6p7grq4pvc7qx5-3000.app.github.dev/api/product-detail?slug=${slug}`).then((response) => response.json()
   );
 }
 
 export default async function DetailProduct({ params }) {
-  const {filesData} = await fetchProducts();
+
+  const { content } = await fetchProducts(params.slug);
   return (
-    <>
-        <p>{filesData}</p>
-    </>
+    <ul>
+      {content.sections.map((section,index) => {
+        if(index === 0){
+          return(<li>
+            <div>
+              <Carousel images={section.files} />
+              <h1>{section.title}</h1>
+              <h3>{section.company}</h3>
+              <p>{section.description}</p>
+            </div>
+          </li>)
+        }
+      })}
+    </ul>
   );
 }
 
 export async function generateStaticParams() {
-  const posts = await fetch("https://8q4vc3-3000.csb.app/api/products").then(
+  const { products: posts } = await fetch("https://potential-memory-9r6p7grq4pvc7qx5-3000.app.github.dev/api/products", { headers: { 'Accept': 'application/json' } }).then(
     (res) => res.json()
   );
 
@@ -23,3 +38,9 @@ export async function generateStaticParams() {
     slug: posts[key].slug,
   }));
 }
+
+
+
+
+
+

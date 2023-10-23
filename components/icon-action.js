@@ -12,7 +12,7 @@ export default function IconAction({
   const [isInfoClicked, setInfo] = useState(null);
 
   const animationShow = (
-    <motion.div
+      <motion.div 
       className={styles.flash}
       initial={{ opacity: 0, scale: 0.5 }}
       animate={{ opacity: 1, scale: 1 }}

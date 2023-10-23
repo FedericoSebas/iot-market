@@ -1,5 +1,7 @@
-.button {
-  background-color: #e0aa2e;
+.link {
+  text-decoration: none;
+  color: #fff;
+  background-color: #e02e2e;
   border: none;
   color: #fff;
   padding: 7px 40px;
@@ -12,9 +14,4 @@
   bottom: 8px;
   border-radius: 10px;
   border: 3px solid #fff;
-}
-
-.link {
-  text-decoration: none;
-  color: #fff;
 }

@@ -1,16 +1,24 @@
+import { add } from "lodash";
 import ProductList from "../components/product-list";
+import Advertisment from "../components/advertisment";
 
 async function fetchProducts() {
-  return fetch("https://8q4vc3-3000.csb.app/api/products", {
-    cache: "no-store",
-  }).then((response) => response.json());
+  return fetch("https://potential-memory-9r6p7grq4pvc7qx5-3000.app.github.dev/api/products",{headers:{'Accept':'application/json'}})
+    .then((response) => response.json())
+}
+
+async function fetchAdvertisment() {
+  return fetch("https://potential-memory-9r6p7grq4pvc7qx5-3000.app.github.dev/api/advertisment")
+    .then((response) => response.json())
 }
 
 async function HomePage() {
-  const products = await fetchProducts();
+  const {products} = await fetchProducts();
+  const {imageObjects: ads} = await fetchAdvertisment();
   return (
     <>
-      <ProductList items={products.data} />
+      <Advertisment items={ads} />
+      <ProductList items={products} />
     </>
   );
 }
